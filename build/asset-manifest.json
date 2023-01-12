@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/http//GregoriBavaro.github.io/food-order-app/static/css/main.af48f836.css",
+    "main.js": "/http//GregoriBavaro.github.io/food-order-app/static/js/main.5a5081c3.js",
+    "static/media/meals.jpg": "/http//GregoriBavaro.github.io/food-order-app/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/http//GregoriBavaro.github.io/food-order-app/index.html",
+    "main.af48f836.css.map": "/http//GregoriBavaro.github.io/food-order-app/static/css/main.af48f836.css.map",
+    "main.5a5081c3.js.map": "/http//GregoriBavaro.github.io/food-order-app/static/js/main.5a5081c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af48f836.css",
+    "static/js/main.5a5081c3.js"
+  ]
+}
